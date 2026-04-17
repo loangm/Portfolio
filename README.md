@@ -1,11 +1,13 @@
 # Portfolio - Entreprod
 
-Portfolio officiel d'**Entreprod** — Développeur web & mobile junior (bac+4 école d’ingénieurs).  
+Portfolio officiel d'**Entreprod**
+Développeur web & mobile
+
 Ce site met en avant mes compétences en React, Next.js, Flutter, React Native, WordPress, Shopify et l’utilisation avancée des outils IA.
 
 **Projets Entreprod**  
-Ce portfolio présente les projets réalisés sous la marque **Entreprod**.  
-Le site est toujours en construction.  
+Ce portfolio présente les projets réalisés avec **Entreprod**.
+Le site est toujours en construction.
 L’ensemble des réalisations et des projets en cours est consultable sur [Instagram @Entreprod](https://www.instagram.com/Entreprod).
 
 ---
