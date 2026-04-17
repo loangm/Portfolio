@@ -1,9 +1,8 @@
 # Portfolio - Entreprod
 
-Portfolio officiel d'**Entreprod**
-Développeur web & mobile
+Portfolio officiel d'**Entreprod** - Développeur web & mobile
 
-Ce site met en avant mes compétences en React, Next.js, Flutter, React Native, WordPress, Shopify et l’utilisation avancée des outils IA.
+Ce site met en avant mes compétences en React, Next.js, Flutter, React Native, WordPress, Shopify et l’utilisation avancée des outils IA. D'autres technologies seront prochainement listées.
 
 **Projets Entreprod**  
 Ce portfolio présente les projets réalisés avec **Entreprod**.
